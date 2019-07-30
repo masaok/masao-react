@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/masao-react/static/css/main.2cce8147.chunk.css",
+    "main.js": "/masao-react/static/js/main.3813fb83.chunk.js",
+    "main.js.map": "/masao-react/static/js/main.3813fb83.chunk.js.map",
+    "runtime~main.js": "/masao-react/static/js/runtime~main.a4b06090.js",
+    "runtime~main.js.map": "/masao-react/static/js/runtime~main.a4b06090.js.map",
+    "static/js/2.b41502e9.chunk.js": "/masao-react/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/masao-react/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/masao-react/index.html",
+    "precache-manifest.421a8639ffe5385ee59b32190025f387.js": "/masao-react/precache-manifest.421a8639ffe5385ee59b32190025f387.js",
+    "service-worker.js": "/masao-react/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/masao-react/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/masao-react/static/media/logo.5d5d9eef.svg"
+  }
+}
